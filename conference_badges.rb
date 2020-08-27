@@ -21,7 +21,7 @@ def room_assignments.(people)
     newarray.push "Hello, ${name}!, you will be assigned to room #{counter}"
     counter += 1
   end
-  newarray 
+  newarray
 end
 
 
