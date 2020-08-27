@@ -14,7 +14,7 @@ def batch_badge_creator(people)
 end
 
 
-def room_assignments.(people)
+def room_assignments(people)
   newarray = []
   counter 1
   people.each do |name|
