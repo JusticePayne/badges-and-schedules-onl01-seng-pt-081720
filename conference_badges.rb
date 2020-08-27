@@ -23,6 +23,3 @@ def room_assignments(people)
   end
   newarray
 end
-
-
-    
