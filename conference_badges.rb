@@ -1,5 +1,5 @@
-def conference_badges
-  let(:name) {"Arel"}
-  let(:attendees) {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
-  let(:badges) {[]}
+people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus" "Matz"]
+
+def conference_badges(people)
+  return "Hello my name is #{people}."
 end
