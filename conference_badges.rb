@@ -3,3 +3,4 @@ def conference_badges
   let(:attendees) {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
   let(:badges) {[]}
 end
+
